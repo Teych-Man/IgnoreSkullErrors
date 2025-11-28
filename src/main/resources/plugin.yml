@@ -1,0 +1,6 @@
+name: IgnoreSkullErrors
+version: '1.0'
+main: me.teychman.ignoreSkullErrors.IgnoreSkullErrors
+api-version: '1.20'
+authors: [ TeychMan ]
+website: "TG: @Teych_Man | DS: the_atns"
